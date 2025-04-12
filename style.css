@@ -96,3 +96,19 @@ button{
 button:hover{
     background: rgb(43, 0, 161);
 }
+
+.chat-box::-webkit-scrollbar{
+    width: 8px;
+}
+
+.chat-box::-webkit-scrollbar-thumb{
+    background: #3300b3;
+    border-radius: 4px;
+}
+
+.chat-box::-webkit-scrollbar-track{
+    background: #2e2c2c;
+}
+
+
+
